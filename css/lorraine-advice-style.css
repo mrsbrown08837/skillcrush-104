@@ -1,0 +1,18 @@
+/*Lorraine's Styles*/
+
+.lorraine-advice {
+	background-color: blue;
+	font-family: sans-serif;
+	color: slate blue
+}
+
+.lorraine-advice h4 {
+	color: purple;
+	font-size: 1.5em;
+}
+
+.lorraine-advice p {
+	font-size: 1.2em;
+	padding: 0 20px;
+	color: white
+}
